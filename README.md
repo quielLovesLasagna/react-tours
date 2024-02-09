@@ -1,3 +1,7 @@
+**_Acknowledgements_**
+
+I would like to thank [John Smilga](https://www.youtube.com/@CodingAddict) for the resources used in the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
